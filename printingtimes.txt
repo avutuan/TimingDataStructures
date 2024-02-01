@@ -1,0 +1,601 @@
+============== RESTART: /Users/tuanvu/Desktop/EECS268/lab6/time.py =============
+Beginning the timing code...
+
+Stack with 1000 elements
+Total time in ns:  49488000
+Total time in sec:  0.049488 
+
+Beginning the timing code...
+
+Stack with 2000 elements
+Total time in ns:  184208500
+Total time in sec:  0.1842085 
+
+Beginning the timing code...
+
+Stack with 3000 elements
+Total time in ns:  267818708
+Total time in sec:  0.267818708 
+
+Beginning the timing code...
+
+Stack with 4000 elements
+Total time in ns:  367355334
+Total time in sec:  0.367355334 
+
+Beginning the timing code...
+
+Stack with 5000 elements
+Total time in ns:  534681833
+Total time in sec:  0.534681833 
+
+Beginning the timing code...
+
+Stack with 6000 elements
+Total time in ns:  768600375
+Total time in sec:  0.768600375 
+
+Beginning the timing code...
+
+Stack with 7000 elements
+Total time in ns:  969939375
+Total time in sec:  0.969939375 
+
+Beginning the timing code...
+
+Stack with 8000 elements
+Total time in ns:  1177329959
+Total time in sec:  1.177329959 
+
+Beginning the timing code...
+
+Stack with 9000 elements
+Total time in ns:  1471077542
+Total time in sec:  1.471077542 
+
+Beginning the timing code...
+
+Stack with 10000 elements
+Total time in ns:  1769754500
+Total time in sec:  1.7697545 
+
+Beginning the timing code...
+
+Stack with 11000 elements
+Total time in ns:  2117955750
+Total time in sec:  2.11795575 
+
+Beginning the timing code...
+
+Stack with 12000 elements
+Total time in ns:  2603869625
+Total time in sec:  2.603869625 
+
+Beginning the timing code...
+
+Stack with 13000 elements
+Total time in ns:  2852306875
+Total time in sec:  2.852306875 
+
+Beginning the timing code...
+
+Stack with 14000 elements
+Total time in ns:  3319099000
+Total time in sec:  3.319099 
+
+Beginning the timing code...
+
+Stack with 15000 elements
+Total time in ns:  3786285375
+Total time in sec:  3.786285375 
+
+Beginning the timing code...
+
+Stack with 16000 elements
+Total time in ns:  4252787791
+Total time in sec:  4.252787791 
+
+Beginning the timing code...
+
+Stack with 17000 elements
+Total time in ns:  4719644792
+Total time in sec:  4.719644792 
+
+Beginning the timing code...
+
+Stack with 18000 elements
+Total time in ns:  5269979667
+Total time in sec:  5.269979667 
+
+Beginning the timing code...
+
+Stack with 19000 elements
+Total time in ns:  5769370333
+Total time in sec:  5.769370333 
+
+Beginning the timing code...
+
+Stack with 20000 elements
+Total time in ns:  6386668834
+Total time in sec:  6.386668834 
+
+Beginning the timing code...
+
+Stack with 21000 elements
+Total time in ns:  7003278666
+Total time in sec:  7.003278666 
+
+Beginning the timing code...
+
+Stack with 22000 elements
+Total time in ns:  7670072166
+Total time in sec:  7.670072166 
+
+Beginning the timing code...
+
+Stack with 23000 elements
+Total time in ns:  8334753708
+Total time in sec:  8.334753708 
+
+Beginning the timing code...
+
+Stack with 24000 elements
+Total time in ns:  9100709291
+Total time in sec:  9.100709291 
+
+Beginning the timing code...
+
+Stack with 25000 elements
+Total time in ns:  9802971084
+Total time in sec:  9.802971084 
+
+Beginning the timing code...
+
+Stack with 26000 elements
+Total time in ns:  10585302875
+Total time in sec:  10.585302875 
+
+Beginning the timing code...
+
+Stack with 27000 elements
+Total time in ns:  11351786167
+Total time in sec:  11.351786167 
+
+Beginning the timing code...
+
+Stack with 28000 elements
+Total time in ns:  12153517584
+Total time in sec:  12.153517584 
+
+Beginning the timing code...
+
+Stack with 29000 elements
+Total time in ns:  13035932625
+Total time in sec:  13.035932625 
+
+Beginning the timing code...
+
+Stack with 30000 elements
+Total time in ns:  13954177500
+Total time in sec:  13.9541775 
+
+Beginning the timing code...
+
+Stack with 31000 elements
+Total time in ns:  14834914541
+Total time in sec:  14.834914541 
+
+Beginning the timing code...
+
+Stack with 32000 elements
+Total time in ns:  15737559959
+Total time in sec:  15.737559959 
+
+Beginning the timing code...
+
+Stack with 33000 elements
+Total time in ns:  16917329167
+Total time in sec:  16.917329167 
+
+Beginning the timing code...
+
+Stack with 34000 elements
+Total time in ns:  17721498708
+Total time in sec:  17.721498708 
+
+Beginning the timing code...
+
+Stack with 35000 elements
+Total time in ns:  18755073791
+Total time in sec:  18.755073791 
+
+Beginning the timing code...
+
+Stack with 36000 elements
+Total time in ns:  19750707334
+Total time in sec:  19.750707334 
+
+Beginning the timing code...
+
+Stack with 37000 elements
+Total time in ns:  20901176125
+Total time in sec:  20.901176125 
+
+Beginning the timing code...
+
+Stack with 38000 elements
+Total time in ns:  22417768333
+Total time in sec:  22.417768333 
+
+Beginning the timing code...
+
+Stack with 39000 elements
+Total time in ns:  23099317000
+Total time in sec:  23.099317 
+
+Beginning the timing code...
+
+Stack with 40000 elements
+Total time in ns:  24203693792
+Total time in sec:  24.203693792 
+
+Beginning the timing code...
+
+Stack with 41000 elements
+Total time in ns:  25410694875
+Total time in sec:  25.410694875 
+
+Beginning the timing code...
+
+Stack with 42000 elements
+Total time in ns:  26855500584
+Total time in sec:  26.855500584 
+
+Beginning the timing code...
+
+Stack with 43000 elements
+Total time in ns:  27931361875
+Total time in sec:  27.931361875 
+
+Beginning the timing code...
+
+Stack with 44000 elements
+Total time in ns:  29187283333
+Total time in sec:  29.187283333 
+
+Beginning the timing code...
+
+Stack with 45000 elements
+Total time in ns:  30484643709
+Total time in sec:  30.484643709 
+
+Beginning the timing code...
+
+Stack with 46000 elements
+Total time in ns:  31986643250
+Total time in sec:  31.98664325 
+
+Beginning the timing code...
+
+Stack with 47000 elements
+Total time in ns:  33187007792
+Total time in sec:  33.187007792 
+
+Beginning the timing code...
+
+Stack with 48000 elements
+Total time in ns:  34669781250
+Total time in sec:  34.66978125 
+
+Beginning the timing code...
+
+Stack with 49000 elements
+Total time in ns:  36020677000
+Total time in sec:  36.020677 
+
+Beginning the timing code...
+
+Stack with 50000 elements
+Total time in ns:  37733170375
+Total time in sec:  37.733170375 
+
+Beginning the timing code...
+
+Stack with 51000 elements
+Total time in ns:  39151468167
+Total time in sec:  39.151468167 
+
+Beginning the timing code...
+
+Stack with 52000 elements
+Total time in ns:  40503565709
+Total time in sec:  40.503565709 
+
+Beginning the timing code...
+
+Stack with 53000 elements
+Total time in ns:  42909504667
+Total time in sec:  42.909504667 
+
+Beginning the timing code...
+
+Stack with 54000 elements
+Total time in ns:  44584733333
+Total time in sec:  44.584733333 
+
+Beginning the timing code...
+
+Stack with 55000 elements
+Total time in ns:  46715357292
+Total time in sec:  46.715357292 
+
+Beginning the timing code...
+
+Stack with 56000 elements
+Total time in ns:  47385407584
+Total time in sec:  47.385407584 
+
+Beginning the timing code...
+
+Stack with 57000 elements
+Total time in ns:  49986092500
+Total time in sec:  49.9860925 
+
+Beginning the timing code...
+
+Stack with 58000 elements
+Total time in ns:  52588332709
+Total time in sec:  52.588332709 
+
+Beginning the timing code...
+
+Stack with 59000 elements
+Total time in ns:  52486367416
+Total time in sec:  52.486367416 
+
+Beginning the timing code...
+
+Stack with 60000 elements
+Total time in ns:  54967913458
+Total time in sec:  54.967913458 
+
+Beginning the timing code...
+
+Stack with 61000 elements
+Total time in ns:  56470004250
+Total time in sec:  56.47000425 
+
+Beginning the timing code...
+
+Stack with 62000 elements
+Total time in ns:  57930416083
+Total time in sec:  57.930416083 
+
+Beginning the timing code...
+
+Stack with 63000 elements
+Total time in ns:  59587900250
+Total time in sec:  59.58790025 
+
+Beginning the timing code...
+
+Stack with 64000 elements
+Total time in ns:  61921121625
+Total time in sec:  61.921121625 
+
+Beginning the timing code...
+
+Stack with 65000 elements
+Total time in ns:  63700935375
+Total time in sec:  63.700935375 
+
+Beginning the timing code...
+
+Stack with 66000 elements
+Total time in ns:  65624956958
+Total time in sec:  65.624956958 
+
+Beginning the timing code...
+
+Stack with 67000 elements
+Total time in ns:  69222974916
+Total time in sec:  69.222974916 
+
+Beginning the timing code...
+
+Stack with 68000 elements
+Total time in ns:  71360019625
+Total time in sec:  71.360019625 
+
+Beginning the timing code...
+
+Stack with 69000 elements
+Total time in ns:  73068506417
+Total time in sec:  73.068506417 
+
+Beginning the timing code...
+
+Stack with 70000 elements
+Total time in ns:  75038096084
+Total time in sec:  75.038096084 
+
+Beginning the timing code...
+
+Stack with 71000 elements
+Total time in ns:  78252300542
+Total time in sec:  78.252300542 
+
+Beginning the timing code...
+
+Stack with 72000 elements
+Total time in ns:  79744676500
+Total time in sec:  79.7446765 
+
+Beginning the timing code...
+
+Stack with 73000 elements
+Total time in ns:  83071120375
+Total time in sec:  83.071120375 
+
+Beginning the timing code...
+
+Stack with 74000 elements
+Total time in ns:  87037024875
+Total time in sec:  87.037024875 
+
+Beginning the timing code...
+
+Stack with 75000 elements
+Total time in ns:  87187382625
+Total time in sec:  87.187382625 
+
+Beginning the timing code...
+
+Stack with 76000 elements
+Total time in ns:  90222865667
+Total time in sec:  90.222865667 
+
+Beginning the timing code...
+
+Stack with 77000 elements
+Total time in ns:  91838585458
+Total time in sec:  91.838585458 
+
+Beginning the timing code...
+
+Stack with 78000 elements
+Total time in ns:  95238583291
+Total time in sec:  95.238583291 
+
+Beginning the timing code...
+
+Stack with 79000 elements
+Total time in ns:  96968763000
+Total time in sec:  96.968763 
+
+Beginning the timing code...
+
+Stack with 80000 elements
+Total time in ns:  101088577541
+Total time in sec:  101.088577541 
+
+Beginning the timing code...
+
+Stack with 81000 elements
+Total time in ns:  102571459833
+Total time in sec:  102.571459833 
+
+Beginning the timing code...
+
+Stack with 82000 elements
+Total time in ns:  106269797625
+Total time in sec:  106.269797625 
+
+Beginning the timing code...
+
+Stack with 83000 elements
+Total time in ns:  108071334000
+Total time in sec:  108.071334 
+
+Beginning the timing code...
+
+Stack with 84000 elements
+Total time in ns:  112169917958
+Total time in sec:  112.169917958 
+
+Beginning the timing code...
+
+Stack with 85000 elements
+Total time in ns:  113602682083
+Total time in sec:  113.602682083 
+
+Beginning the timing code...
+
+Stack with 86000 elements
+Total time in ns:  117787837375
+Total time in sec:  117.787837375 
+
+Beginning the timing code...
+
+Stack with 87000 elements
+Total time in ns:  119088133375
+Total time in sec:  119.088133375 
+
+Beginning the timing code...
+
+Stack with 88000 elements
+Total time in ns:  124071859792
+Total time in sec:  124.071859792 
+
+Beginning the timing code...
+
+Stack with 89000 elements
+Total time in ns:  126270602292
+Total time in sec:  126.270602292 
+
+Beginning the timing code...
+
+Stack with 90000 elements
+Total time in ns:  129888143208
+Total time in sec:  129.888143208 
+
+Beginning the timing code...
+
+Stack with 91000 elements
+Total time in ns:  132221092041
+Total time in sec:  132.221092041 
+
+Beginning the timing code...
+
+Stack with 92000 elements
+Total time in ns:  136270858750
+Total time in sec:  136.27085875 
+
+Beginning the timing code...
+
+Stack with 93000 elements
+Total time in ns:  139203197667
+Total time in sec:  139.203197667 
+
+Beginning the timing code...
+
+Stack with 94000 elements
+Total time in ns:  142620910167
+Total time in sec:  142.620910167 
+
+Beginning the timing code...
+
+Stack with 95000 elements
+Total time in ns:  145488093250
+Total time in sec:  145.48809325 
+
+Beginning the timing code...
+
+Stack with 96000 elements
+Total time in ns:  149404141916
+Total time in sec:  149.404141916 
+
+Beginning the timing code...
+
+Stack with 97000 elements
+Total time in ns:  152567989708
+Total time in sec:  152.567989708 
+
+Beginning the timing code...
+
+Stack with 98000 elements
+Total time in ns:  157938028209
+Total time in sec:  157.938028209 
+
+Beginning the timing code...
+
+Stack with 99000 elements
+Total time in ns:  159803938708
+Total time in sec:  159.803938708 
+
+Beginning the timing code...
+
+Stack with 100000 elements
+Total time in ns:  164085832333
+Total time in sec:  164.085832333 
+
